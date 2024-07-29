@@ -1,0 +1,25 @@
+.react-datepicker-popper {
+    z-index: 99!important;
+}
+
+.Slug {
+    margin-top: 1rem;
+}
+
+.Slug label {
+    display: block;
+}
+
+/* CMS Image */
+.ImageSpan__root___RoAqL {
+    width: 100%!important;
+    height: 150px!important;
+    background-size: contain!important;
+}
+
+.EditorToolbar__root___3_Aqz {
+    position: sticky;
+    top: -25px;
+    background-color: white;
+    z-index: 2;
+}
